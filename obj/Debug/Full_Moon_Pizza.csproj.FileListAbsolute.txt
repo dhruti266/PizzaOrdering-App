@@ -1,0 +1,9 @@
+c:\users\dhruti\documents\visual studio 2015\Projects\Full_Moon_Pizza\Full_Moon_Pizza\bin\Debug\Full_Moon_Pizza.exe.config
+c:\users\dhruti\documents\visual studio 2015\Projects\Full_Moon_Pizza\Full_Moon_Pizza\bin\Debug\Full_Moon_Pizza.exe
+c:\users\dhruti\documents\visual studio 2015\Projects\Full_Moon_Pizza\Full_Moon_Pizza\bin\Debug\Full_Moon_Pizza.pdb
+c:\users\dhruti\documents\visual studio 2015\Projects\Full_Moon_Pizza\Full_Moon_Pizza\obj\Debug\Full_Moon_Pizza.csprojResolveAssemblyReference.cache
+c:\users\dhruti\documents\visual studio 2015\Projects\Full_Moon_Pizza\Full_Moon_Pizza\obj\Debug\Full_Moon_Pizza.FullMoonPizza.resources
+c:\users\dhruti\documents\visual studio 2015\Projects\Full_Moon_Pizza\Full_Moon_Pizza\obj\Debug\Full_Moon_Pizza.Properties.Resources.resources
+c:\users\dhruti\documents\visual studio 2015\Projects\Full_Moon_Pizza\Full_Moon_Pizza\obj\Debug\Full_Moon_Pizza.csproj.GenerateResource.Cache
+c:\users\dhruti\documents\visual studio 2015\Projects\Full_Moon_Pizza\Full_Moon_Pizza\obj\Debug\Full_Moon_Pizza.exe
+c:\users\dhruti\documents\visual studio 2015\Projects\Full_Moon_Pizza\Full_Moon_Pizza\obj\Debug\Full_Moon_Pizza.pdb
